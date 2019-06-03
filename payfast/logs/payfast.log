@@ -1,0 +1,9 @@
+{"level":"info","message":"Log utilizando o winston"}
+{"level":"info","message":"Log utilizando o winston"}
+{"message":"consultando pagamento: 9","level":"info"}
+{"message":"consultando pagamento: 9","level":"info"}
+{"message":"::1 - - [03/Jun/2019:15:35:29 +0000] \"GET /pagamentos/pagamento/9 HTTP/1.1\" 200 160\n","level":"info"}
+{"message":"consultando pagamento: 9","level":"info"}
+{"message":"::1 - - [03/Jun/2019:17:22:54 +0000] \"GET /pagamentos/pagamento/9 HTTP/1.1\" 200 160\n","level":"info"}
+{"message":"consultando pagamento: 9","level":"info"}
+{"message":"::1 - - [03/Jun/2019:17:24:09 +0000] \"GET /pagamentos/pagamento/9 HTTP/1.1\" 200 160\n","level":"info"}
